@@ -41,7 +41,7 @@ section .normal{
 }
 
 section .imagem{
-    background-color:black
+    background-color: black;
     color: white
 }
 
